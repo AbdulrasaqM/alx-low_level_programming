@@ -2,6 +2,15 @@
 #include <stdio.h>
 #include <stdint.h>
 
+/**
+ * main - Entry point
+ *
+ * The function will output the type size of in 32bits environment
+ * or the type size of in 64bits environment
+ * compile it in 64 bits with no warning
+ * compile it in 32 bits with waring
+ * Return: Always 0 (Success)
+ */
 
 int main(void)
 {
