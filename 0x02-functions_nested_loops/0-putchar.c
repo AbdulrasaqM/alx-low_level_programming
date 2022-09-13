@@ -5,9 +5,9 @@
  * print a string
  *
  * Return: 0 on success
- * */
+ */
  
- int main (void)
+int main (void)
 {
 	char *a;
 	int i;
@@ -15,8 +15,8 @@
 	a = '_putchar';
 	for (i =0; i<=8; i++)
 	{
-		putchar (a[i]);
+		_putchar (a[i]);
 	}
-	putchar ('\n');
+	_putchar ('\n');
 	return 0;
 }
