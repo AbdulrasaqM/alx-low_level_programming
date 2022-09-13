@@ -13,7 +13,7 @@ int main(void)
 	j = 1;
 	for (n = 0; n < 50; n++)
 	{
-		fibo = i + j;
+		fibon = i + j;
 		i = j;
 		j = fibon;
 		if (fibon % 2 == 0 && fibon < 4000000)
