@@ -13,7 +13,7 @@ int main(void)
 	{
 		fibon = i + j;
 		i = j;
-		j = fibo;
+		j = fibon;
 		printf("%lu", fibon);
 		if (n == 49)
 			putchar('\n');
