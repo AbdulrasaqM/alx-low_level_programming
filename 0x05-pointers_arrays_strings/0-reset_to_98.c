@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
- *main - reset to 98
+ *reset_to_98 - Update any interger value back to 98
  *@n: a pointer to an int to be updated
  *
  *return 0
