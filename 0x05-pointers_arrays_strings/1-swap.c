@@ -2,8 +2,8 @@
 
 /**
  *swap_int - this swpas two integers 
- *@a,b - two pinters will updated with the opposite value
- *
+ *@a - A pointer will be updated with the B value
+ *@b - B Pointer will be updated with the A value
  *Return void
  */
 
